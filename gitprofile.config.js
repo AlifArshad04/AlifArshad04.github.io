@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'AlifArshad04', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,58 +11,52 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
+    linkedin: 'alif-arshad-bakshi',
+    twitter: '',
+    mastodon: '',
+    facebook: 'alif.arshad.b',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'arshadbakshi@iut-dhaka.edu',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Flutter',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Battary Low Interactive Ltd.',
+      position: 'App Development Intern',
+      from: 'November 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://batterylowinteractive.com/',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+    // {
+    //   company: 'Company Name',
+    //   position: 'Position',
+    //   from: 'July 2019',
+    //   to: 'August 2021',
+    //   companyLink: 'https://example.com',
+    // },
   ],
   /* certifications: [
     {
@@ -74,16 +68,22 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
+      institution: 'Islamic University of Technology',
+      degree: 'B.Sc.',
+      from: '2020',
+      to: '2024',
+    },
+    {
+      institution: 'Dhaka College',
+      degree: 'HSC',
+      from: '2017',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Government Laboratory High School, Dhaka',
+      degree: 'SSC',
+      from: '2007',
+      to: '2017',
     },
   ],
 
