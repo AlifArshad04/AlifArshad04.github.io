@@ -90,24 +90,24 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Ishara Buli',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'An android application for learning Bangla sign language Topics License',
+      imageUrl: 'https://cdn.pixabay.com/photo/2021/03/29/23/55/hand-sign-6135513_1280.png',
+      link: 'https://github.com/squirtle-squad-iut/ishara_buli',
     },
     {
-      title: 'Project Name',
+      title: 'Canvas',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Canvas is a drawing program written and developed using C++ and the SFML library. It was built in Visual Studio and runs on both Windows and Linux based operating systems.',
+      imageUrl: 'https://paintology.in/wp-content/uploads/2021/07/wanderlust-acrylic-painting-on-canvas-760x760.jpg',
+      link: 'https://github.com/Bhrom-but-better/Canvas',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'Alif Arshad Bakshi', // to hide blog section, keep it empty
+    username: 'arshadbakshi', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
