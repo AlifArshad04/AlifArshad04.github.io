@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'alif-arshad-bakshi',
+    linkedin: 'alif-arshad-bakshi-344391161',
     twitter: '',
     mastodon: '',
     facebook: 'alif.arshad.b',
@@ -69,7 +69,7 @@ const config = {
   education: [
     {
       institution: 'Islamic University of Technology',
-      degree: 'B.Sc.',
+      degree: 'B.Sc. in Computer Science and Engineering',
       from: '2020',
       to: '2024',
     },
@@ -106,8 +106,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'Alif Arshad Bakshi', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
